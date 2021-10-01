@@ -40,7 +40,7 @@ local white <const> = {r = 255, g = 255, b = 255}
 local red <const> = {r = 255, g = 0, b = 0}
 local green <const> = {r = 0, g = 255, b = 0}
 local blue <const> = {r = 0, g = 0, b = 255}
-local yellow <const> = {r = 255, g = 255, b = 0}
+local yellow <const> = {r = 204, g = 204, b = 0}
 local purple <const> = {r = 255, g = 0, b = 255}
 
 local startFinishBlipColor <const> = 5 -- yellow
